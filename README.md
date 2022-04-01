@@ -1,6 +1,20 @@
-# Node JS and Express REST API 101
+# **Node JS and Express REST API 101 | Tutorial and Sample Code
 
-In this repository you will find basic boiler plate code for building a Node JS and Express REST API. 
+You can view this tutorial at my [**Youtube Channel**]().
+
+In this repository you will find basic boiler plate code for building a Node JS and Express REST API. You can access this code in the /src folder of this repository. 
+
+The steps to be followed in this tutorial are, 
+
+Initialize your Node JS project with, 
+
+```shell
+npm init
+```
+
+You will be asked to fill all of the below information for your project. 
+
+![npm init command](/images/npm-init.png)
 
 Create package.json with npm init
 Showcase package.json 
