@@ -4,6 +4,15 @@ You can view this tutorial at my [**Youtube Channel**](https://youtube.com).
 
 In this repository you will find basic boiler plate code for building a Node JS and Express REST API. You can access this code in the /src folder of this repository. 
 
+## What will you learn?
+
+- What is REST, HTTP and API?
+- What are Node JS and Express JS?
+- Create a basic Node JS project structure
+- Building a REST API using Node JS and Express JS 
+- Using Express router in your API 
+- Testing your API with Postman
+
 ## Tutorial Steps
 
 Initialize your Node JS project with, 
@@ -72,7 +81,7 @@ Update your [**package.json**](/package.json) to have a start script.
 }
 ```
 
-Craete basic REST API - refer to /src folder for soure code. We will create the following files, 
+Create basic REST API - refer to /src folder for soure code. We will create the following files, 
 
 **app.js**
 ```javascript
