@@ -1,6 +1,6 @@
 # Node JS and Express REST API 101 | Tutorial and Sample Code
 
-You can view this tutorial at my [**Youtube Channel**](https://youtube.com).
+You can view this tutorial at my [**Youtube Channel**](https://www.youtube.com/watch?v=S8bbbcskNkM).
 
 In this repository you will find basic boiler plate code for building a Node JS and Express REST API. You can access this code in the /src folder of this repository. 
 
