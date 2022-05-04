@@ -1,6 +1,6 @@
 // console.log("Subscribe to my channel - With Chanakya!");
 
-console.log("This is develop branch - with more changes!");
+console.log("This is develop branch!");
 
 console.log("Another line!");
 
